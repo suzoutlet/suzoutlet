@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on something cool!
+- 🌱 I’m currently learning a couple of things with the help of docs.github.com
 <!--
 **suzoutlet/suzoutlet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
